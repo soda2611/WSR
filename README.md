@@ -1,4 +1,4 @@
 # WSR
 Whoop Stable Release Repository
 
-Whoop Developer Release at: https://github.com/soda2611/Whoop
+Open-source version at: https://github.com/soda2611/Whoop
