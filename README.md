@@ -20,7 +20,8 @@ Whoop là một dự án từ điển mã nguồn mở với mục tiêu sở h�
 
 ## Đóng góp
 
-Mã nguồn của phần mềm tại: github.com/soda2611/Whoop
+Mã nguồn của phần mềm tại: https://github.com/soda2611/Whoop
+
 Nếu bạn muốn đóng góp cho dự án này, bạn có thể phát triển một phiên bản tùy chỉnh của mình sau đó gửi đến email: hnhat3543@gmail.com
 
 ## Giấy phép
