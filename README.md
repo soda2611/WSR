@@ -7,16 +7,16 @@ Whoop là một dự án từ điển mã nguồn mở với mục tiêu sở h�
 
 ## Cài đặt
 
-- Windows:
-  + Tải xuống file "Whoop Installer for Windows.exe"
+- **Windows**:
+  + Tải xuống file **Whoop Installer for Windows.exe**
   + Chạy file cài đặt đã tải xuống và chờ đợi
 
 ## Yêu cầu hệ thống:
 - Phiên bản hệ điều hành:
-  + Windows: Windows 7 trở lên (khuyến nghị Windows 10)
+  + **Windows**: **Windows 7** trở lên (khuyến nghị **Windows 10**)
 - Phần cứng:
-  + RAM: 2GB trở lên
-  + Ổ cứng: còn trống ít nhất 100MB
+  + **RAM**: **2GB** trở lên
+  + **Ổ cứng**: còn trống ít nhất **50MB**
 
 ## Đóng góp
 
