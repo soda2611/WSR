@@ -9,7 +9,7 @@ Whoop là một dự án từ điển mã nguồn mở với mục tiêu sở h�
 
 - Windows:
   + Tải xuống file "Whoop Installer for Windows.exe"
-  + Chạy file cài đặt đã tải xuống và chờ đợi (khuyến nghị chạy 2 lần)
+  + Chạy file cài đặt đã tải xuống và chờ đợi
 
 ## Yêu cầu hệ thống:
 - Phiên bản hệ điều hành:
