@@ -1,7 +1,7 @@
 size: 800 650
 current palette: 255, 255, 255; 245, 245, 245; 230, 230, 230; 0, 0, 0; 0, 0, 0; 255, 255, 255
 fonts: segoeuib
-version: Whoop 1.1.0dev
+version: Whoop 1.1.0
 released date: 27/3/2025
 favlist: func/setting/fav_word_list.txt
 pattern: none
