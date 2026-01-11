@@ -16,7 +16,7 @@ Whoop là một dự án từ điển mã nguồn mở với mục tiêu sở h�
   + **Windows**: Từ **Windows 7** trở lên (khuyến nghị **Windows 10**)
 - Phần cứng:
   + **RAM**: **2GB** trở lên
-  + **Ổ cứng**: còn trống ít nhất **50MB**
+  + **Ổ cứng**: còn trống ít nhất **100MB**
 
 ## Đóng góp
 
